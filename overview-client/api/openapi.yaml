@@ -1,0 +1,634 @@
+openapi: 3.0.1
+info:
+  description: Fetch company/companies overview(s)
+  title: Overview
+  version: "2.0"
+  x-category: company
+  x-countries:
+  - se
+  x-id: Overview
+servers:
+- url: https://api.roaring.io/se/company/overview/2.0
+paths:
+  /{companyId}:
+    get:
+      description: It supports date parameter to find overview up to date
+      parameters:
+      - description: id of company
+        in: path
+        name: companyId
+        required: true
+        schema:
+          type: string
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/OverviewsResult'
+          description: "OK, successfull response"
+        "400":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BadRequest'
+          description: "Returned when something is wrong in the request, e.g. failed\
+            \ argument validation or arguments are missing"
+        "404":
+          content: {}
+          description: Requested resource could not be found
+        "500":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ServerError'
+          description: "An internal server error occurred, please contact the system\
+            \ administrator with information on the error"
+      summary: Find overview by company id
+      x-accepts:
+      - application/json
+  /history/{companyId}:
+    get:
+      description: Changes of the company within specified date range. The range includes
+        "from" and excludes "to".
+      parameters:
+      - description: id of company
+        in: path
+        name: companyId
+        required: true
+        schema:
+          type: string
+      - description: "beginning of the date range (including), iso 8601 format"
+        in: query
+        name: fromDate
+        schema:
+          type: string
+      - description: "ending of the date range (excluding), iso 8601 format"
+        in: query
+        name: toDate
+        schema:
+          type: string
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/OverviewsResult'
+          description: "OK, successfull response"
+        "400":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BadRequest'
+          description: "Returned when something is wrong in the request, e.g. failed\
+            \ argument validation or arguments are missing"
+        "404":
+          content: {}
+          description: Requested resource could not be found
+        "500":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ServerError'
+          description: "An internal server error occurred, please contact the system\
+            \ administrator with information on the error"
+      summary: Find history overview by company id
+      x-accepts:
+      - application/json
+  /:
+    post:
+      description: It supports date parameter to find overviews up to date
+      requestBody:
+        content:
+          application/json:
+            schema:
+              $ref: '#/components/schemas/MultiCompanyRequest'
+        description: request body with companies identifiers to lookup
+        required: true
+      responses:
+        "200":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/MultiCompaniesOverviewsResult'
+          description: "OK, successfull response"
+        "400":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/BadRequest'
+          description: "Returned when something is wrong in the request, e.g. failed\
+            \ argument validation or arguments are missing"
+        "404":
+          content: {}
+          description: Requested resource could not be found
+        "500":
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/ServerError'
+          description: "An internal server error occurred, please contact the system\
+            \ administrator with information on the error"
+      summary: Find overviews by companies id-s
+      x-codegen-request-body-name: multiCompanyRequest
+      x-content-type: application/json
+      x-accepts:
+      - application/json
+components:
+  schemas:
+    BadRequest:
+      description: "Returned when something is wrong in the request, e.g. failed argument\
+        \ validation or missed argument"
+      example:
+        attributes:
+        - attribute: attribute
+          value: value
+        - attribute: attribute
+          value: value
+        error: error
+        message: message
+      properties:
+        attributes:
+          description: Invalid attributes
+          items:
+            $ref: '#/components/schemas/RequestAttribute'
+          type: array
+        error:
+          description: Error name
+          type: string
+          x-default: BadRequest
+        message:
+          description: Description of the request error
+          type: string
+          x-default: Required arguments are missing in the request
+      type: object
+    MultiCompaniesOverviewsResult:
+      description: Multiple companies overviews result
+      example:
+        records:
+        - companyDeregistrationDate: companyDeregistrationDate
+          industryText: industryText
+          coAddress: coAddress
+          zipCode: zipCode
+          severalCompanyName: true
+          statusTextHigh: statusTextHigh
+          vatReg: true
+          commune: commune
+          communeCode: communeCode
+          companyName: companyName
+          county: county
+          visitZipCode: visitZipCode
+          vatRegDate: vatRegDate
+          industryCode: industryCode
+          changeDate: changeDate
+          numberEmployeesInterval: numberEmployeesInterval
+          email: email
+          visitStreet: visitStreet
+          companyRegistrationDate: companyRegistrationDate
+          address: address
+          town: town
+          statusDateFrom: statusDateFrom
+          numberCompanyUnits: 0
+          webAddress: webAddress
+          preliminaryTaxRegDate: preliminaryTaxRegDate
+          visitCounty: visitCounty
+          companyHolder: companyHolder
+          employerContributionReg: true
+          preliminaryTaxReg: true
+          statusTextDetailed: statusTextDetailed
+          visitCommune: visitCommune
+          topDirectorFunction: topDirectorFunction
+          companyId: companyId
+          phoneNumber: phoneNumber
+          legalGroupCode: legalGroupCode
+          visitTown: visitTown
+          faxNumber: faxNumber
+          topDirectorName: topDirectorName
+          legalGroupText: legalGroupText
+          visitAddress: visitAddress
+          statusCode: statusCode
+        - companyDeregistrationDate: companyDeregistrationDate
+          industryText: industryText
+          coAddress: coAddress
+          zipCode: zipCode
+          severalCompanyName: true
+          statusTextHigh: statusTextHigh
+          vatReg: true
+          commune: commune
+          communeCode: communeCode
+          companyName: companyName
+          county: county
+          visitZipCode: visitZipCode
+          vatRegDate: vatRegDate
+          industryCode: industryCode
+          changeDate: changeDate
+          numberEmployeesInterval: numberEmployeesInterval
+          email: email
+          visitStreet: visitStreet
+          companyRegistrationDate: companyRegistrationDate
+          address: address
+          town: town
+          statusDateFrom: statusDateFrom
+          numberCompanyUnits: 0
+          webAddress: webAddress
+          preliminaryTaxRegDate: preliminaryTaxRegDate
+          visitCounty: visitCounty
+          companyHolder: companyHolder
+          employerContributionReg: true
+          preliminaryTaxReg: true
+          statusTextDetailed: statusTextDetailed
+          visitCommune: visitCommune
+          topDirectorFunction: topDirectorFunction
+          companyId: companyId
+          phoneNumber: phoneNumber
+          legalGroupCode: legalGroupCode
+          visitTown: visitTown
+          faxNumber: faxNumber
+          topDirectorName: topDirectorName
+          legalGroupText: legalGroupText
+          visitAddress: visitAddress
+          statusCode: statusCode
+        responseInfo:
+          requestCount: 6
+          hitCount: 0
+          noMatchIds:
+          - noMatchIds
+          - noMatchIds
+        status:
+          code: 6
+          text: text
+      properties:
+        records:
+          description: found overview(s)
+          items:
+            $ref: '#/components/schemas/Overview'
+          type: array
+        responseInfo:
+          $ref: '#/components/schemas/ResponseInfo'
+        status:
+          $ref: '#/components/schemas/SearchResultStatus'
+      type: object
+    MultiCompanyRequest:
+      description: Multiple companies ids request
+      example:
+        companyIds:
+        - companyIds
+        - companyIds
+        requestKey: requestKey
+      properties:
+        companyIds:
+          description: array of company id
+          items:
+            type: string
+          type: array
+        requestKey:
+          description: cache key for companies id-s in sandbox
+          type: string
+      type: object
+    Overview:
+      description: Company overview
+      example:
+        companyDeregistrationDate: companyDeregistrationDate
+        industryText: industryText
+        coAddress: coAddress
+        zipCode: zipCode
+        severalCompanyName: true
+        statusTextHigh: statusTextHigh
+        vatReg: true
+        commune: commune
+        communeCode: communeCode
+        companyName: companyName
+        county: county
+        visitZipCode: visitZipCode
+        vatRegDate: vatRegDate
+        industryCode: industryCode
+        changeDate: changeDate
+        numberEmployeesInterval: numberEmployeesInterval
+        email: email
+        visitStreet: visitStreet
+        companyRegistrationDate: companyRegistrationDate
+        address: address
+        town: town
+        statusDateFrom: statusDateFrom
+        numberCompanyUnits: 0
+        webAddress: webAddress
+        preliminaryTaxRegDate: preliminaryTaxRegDate
+        visitCounty: visitCounty
+        companyHolder: companyHolder
+        employerContributionReg: true
+        preliminaryTaxReg: true
+        statusTextDetailed: statusTextDetailed
+        visitCommune: visitCommune
+        topDirectorFunction: topDirectorFunction
+        companyId: companyId
+        phoneNumber: phoneNumber
+        legalGroupCode: legalGroupCode
+        visitTown: visitTown
+        faxNumber: faxNumber
+        topDirectorName: topDirectorName
+        legalGroupText: legalGroupText
+        visitAddress: visitAddress
+        statusCode: statusCode
+      properties:
+        address:
+          description: "Postal address, street/P.O BOX"
+          type: string
+        changeDate:
+          description: Date for when the record was changed
+          type: string
+        coAddress:
+          description: "Postal address, C/O address"
+          type: string
+        commune:
+          description: "Postal address, commune name"
+          type: string
+        communeCode:
+          description: "Postal address, commune code"
+          type: string
+        companyDeregistrationDate:
+          description: Company deregistration date
+          type: string
+        companyHolder:
+          description: Name of company holder
+          type: string
+        companyId:
+          description: Company identifier (company registration number / organization
+            number)
+          type: string
+        companyName:
+          description: Company name
+          type: string
+        companyRegistrationDate:
+          description: Company registration date
+          type: string
+        county:
+          description: "Postal address, county"
+          type: string
+        email:
+          description: Email address
+          type: string
+        employerContributionReg:
+          description: Company is registered for employer contribution tax (Arb.avg
+            Sweden)
+          type: boolean
+        faxNumber:
+          description: Fax number
+          type: string
+        industryCode:
+          description: "Company main industry, NACE code"
+          type: string
+        industryText:
+          description: "Company main industry, NACE text"
+          type: string
+        legalGroupCode:
+          description: Company type code
+          type: string
+        legalGroupText:
+          description: Company type text
+          type: string
+        numberCompanyUnits:
+          description: Number of company units/workplaces
+          format: int32
+          type: integer
+        numberEmployeesInterval:
+          description: Number of employees (interval)
+          type: string
+        phoneNumber:
+          description: Telephone number
+          type: string
+        preliminaryTaxReg:
+          description: Company is approved for preliminary tax (F-skatt Sweden)
+          type: boolean
+        preliminaryTaxRegDate:
+          description: Date when company is approved for preliminary tax (F-skatt
+            Sweden)
+          type: string
+        severalCompanyName:
+          description: Indicates if the company have more than one active name
+          type: boolean
+        statusCode:
+          description: Company status code
+          type: string
+        statusDateFrom:
+          description: Company status date from
+          type: string
+        statusTextDetailed:
+          description: Company status text detailed
+          type: string
+        statusTextHigh:
+          description: Company status text
+          type: string
+        topDirectorFunction:
+          description: Top director's function
+          type: string
+        topDirectorName:
+          description: Top director's name
+          type: string
+        town:
+          description: "Postal address, town"
+          type: string
+        vatReg:
+          description: Company is registered for VAT (MOMS Sweden)
+          type: boolean
+        vatRegDate:
+          description: VAT start date
+          type: string
+        visitAddress:
+          description: "Visiting address, street name, street number and unit"
+          type: string
+        visitCommune:
+          description: "Visiting address, commune"
+          type: string
+        visitCounty:
+          description: "Visiting address, county"
+          type: string
+        visitStreet:
+          description: "Visiting address, street"
+          type: string
+        visitTown:
+          description: "Visiting address, town"
+          type: string
+        visitZipCode:
+          description: "Visiting address, zip code"
+          type: string
+        webAddress:
+          description: Web address
+          type: string
+        zipCode:
+          description: "Postal address, zipcode"
+          type: string
+      type: object
+    OverviewsResult:
+      description: Company(s) overview(s) result
+      example:
+        records:
+        - companyDeregistrationDate: companyDeregistrationDate
+          industryText: industryText
+          coAddress: coAddress
+          zipCode: zipCode
+          severalCompanyName: true
+          statusTextHigh: statusTextHigh
+          vatReg: true
+          commune: commune
+          communeCode: communeCode
+          companyName: companyName
+          county: county
+          visitZipCode: visitZipCode
+          vatRegDate: vatRegDate
+          industryCode: industryCode
+          changeDate: changeDate
+          numberEmployeesInterval: numberEmployeesInterval
+          email: email
+          visitStreet: visitStreet
+          companyRegistrationDate: companyRegistrationDate
+          address: address
+          town: town
+          statusDateFrom: statusDateFrom
+          numberCompanyUnits: 0
+          webAddress: webAddress
+          preliminaryTaxRegDate: preliminaryTaxRegDate
+          visitCounty: visitCounty
+          companyHolder: companyHolder
+          employerContributionReg: true
+          preliminaryTaxReg: true
+          statusTextDetailed: statusTextDetailed
+          visitCommune: visitCommune
+          topDirectorFunction: topDirectorFunction
+          companyId: companyId
+          phoneNumber: phoneNumber
+          legalGroupCode: legalGroupCode
+          visitTown: visitTown
+          faxNumber: faxNumber
+          topDirectorName: topDirectorName
+          legalGroupText: legalGroupText
+          visitAddress: visitAddress
+          statusCode: statusCode
+        - companyDeregistrationDate: companyDeregistrationDate
+          industryText: industryText
+          coAddress: coAddress
+          zipCode: zipCode
+          severalCompanyName: true
+          statusTextHigh: statusTextHigh
+          vatReg: true
+          commune: commune
+          communeCode: communeCode
+          companyName: companyName
+          county: county
+          visitZipCode: visitZipCode
+          vatRegDate: vatRegDate
+          industryCode: industryCode
+          changeDate: changeDate
+          numberEmployeesInterval: numberEmployeesInterval
+          email: email
+          visitStreet: visitStreet
+          companyRegistrationDate: companyRegistrationDate
+          address: address
+          town: town
+          statusDateFrom: statusDateFrom
+          numberCompanyUnits: 0
+          webAddress: webAddress
+          preliminaryTaxRegDate: preliminaryTaxRegDate
+          visitCounty: visitCounty
+          companyHolder: companyHolder
+          employerContributionReg: true
+          preliminaryTaxReg: true
+          statusTextDetailed: statusTextDetailed
+          visitCommune: visitCommune
+          topDirectorFunction: topDirectorFunction
+          companyId: companyId
+          phoneNumber: phoneNumber
+          legalGroupCode: legalGroupCode
+          visitTown: visitTown
+          faxNumber: faxNumber
+          topDirectorName: topDirectorName
+          legalGroupText: legalGroupText
+          visitAddress: visitAddress
+          statusCode: statusCode
+        status:
+          code: 6
+          text: text
+      properties:
+        records:
+          description: found overview(s)
+          items:
+            $ref: '#/components/schemas/Overview'
+          type: array
+        status:
+          $ref: '#/components/schemas/SearchResultStatus'
+      type: object
+    RequestAttribute:
+      description: Incorrect attribute of request
+      example:
+        attribute: attribute
+        value: value
+      properties:
+        attribute:
+          description: Parameter name
+          type: string
+        value:
+          description: "Parameter value, subject for validation"
+          type: string
+      type: object
+    ResponseInfo:
+      description: Multiple response information
+      example:
+        requestCount: 6
+        hitCount: 0
+        noMatchIds:
+        - noMatchIds
+        - noMatchIds
+      properties:
+        hitCount:
+          description: Number of companyIds in response (companyIds that could be
+            found)
+          format: int32
+          type: integer
+        noMatchIds:
+          description: Array of companyIds that was in request but could not be matched
+          items:
+            type: string
+          type: array
+        requestCount:
+          description: Number of requested companyIds
+          format: int32
+          type: integer
+      type: object
+    SearchResultStatus:
+      description: Description of search result
+      example:
+        code: 6
+        text: text
+      properties:
+        code:
+          description: "0 - found, 1 - not found"
+          format: int32
+          type: integer
+        text:
+          description: search result description
+          type: string
+      type: object
+    ServerError:
+      description: Internal server error
+      example:
+        error: error
+        message: message
+      properties:
+        error:
+          description: Error name
+          type: string
+          x-default: InternalServerError
+        message:
+          description: Description of the request error
+          type: string
+          x-default: "An internal server error occurred, please contact the system\
+            \ administrator with information on the error"
+      type: object
+  securitySchemes:
+    Authentication:
+      flows:
+        clientCredentials:
+          scopes: {}
+          tokenUrl: https://api.roaring.io/token
+      type: oauth2
+x-original-swagger-version: "2.0"
+

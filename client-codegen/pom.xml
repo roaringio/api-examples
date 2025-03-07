@@ -1,0 +1,55 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0"
+         xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 
+         http://maven.apache.org/xsd/maven-4.0.0.xsd">
+  <modelVersion>4.0.0</modelVersion>
+  
+  <parent>
+    <groupId>io.roaring.example</groupId>
+    <artifactId>parent</artifactId>
+    <version>1.0.0</version>
+  </parent>
+  
+  <groupId>io.roaring.example</groupId>
+  <artifactId>client-codegen</artifactId>
+  <version>1.0.0</version>
+  
+  <build>
+    <plugins>
+      <plugin>
+        <groupId>org.openapitools</groupId>
+        <artifactId>openapi-generator-maven-plugin</artifactId>
+        <version>7.12.0</version>
+        <executions>
+          <execution>
+            <id>generate-client</id>
+            <goals>
+              <goal>generate</goal>
+            </goals>
+            <configuration>
+              <inputSpec>${project.basedir}/swagger.json</inputSpec>
+              <generatorName>java</generatorName>
+              <!-- Output the generated sources into a directory within the module -->
+              <output>${project.basedir}/../overview-client</output>
+              <configOptions>
+                <groupId>io.roaring.example</groupId>
+                <artifactId>overview-client</artifactId>
+                <artifactVersion>1.0.0</artifactVersion>
+                <mavenCompilerSource>1.8</mavenCompilerSource>
+                <mavenCompilerTarget>1.8</mavenCompilerTarget>
+                <apiPackage>io.roaring.example.overview.api</apiPackage>
+                <modelPackage>io.roaring.example.overview.model</modelPackage>
+                <invokerPackage>io.roaring.example.overview.invoker</invokerPackage>
+              </configOptions>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+    </plugins>
+  </build>
+  
+  <!-- Optionally, declare dependencies required by the generated client -->
+  <dependencies>
+    <!-- For example, if OAuth classes or other libraries are needed -->
+  </dependencies>
+</project>
