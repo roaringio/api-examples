@@ -9,11 +9,11 @@ Client codegeneration is done using the OpenAPI codegenerator. The
 `client-codegen` folder contains a Swagger file downloaded from the
 [Roaring.io Developer site](https://app.roaring.io/v2/developer/apis/se-company-overview-2.0).
 
-The `overview-client` folder contains a pre-generated client. How you 
+The `company-info-client` folder contains a pre-generated client. How you 
 manage generated code is up to you. Here it is already generated and
 checked into source control.
 
-The `overview-app` folder contains a main class that uses the client
+The `company-info-app` folder contains a main class that uses the client
 to retrieve company information and print it out to standard out.
 
 The root `pom.xml` does not include `client-codegen` since that
@@ -34,7 +34,7 @@ client secret.
 You can now build and run the example:
 ```shell
 mvn clean package
-java -DclientId=<YOUR_CLIENT_ID> -DclientSecret=<YOUR_CLIENT_SECRET> -jar overview-app/target/overview-app-0.0.1-SNAPSHOT.jar
+java -DclientId=<YOUR_CLIENT_ID> -DclientSecret=<YOUR_CLIENT_SECRET> -jar company-info-app/target/company-info-app-0.0.1-SNAPSHOT.jar
 ```
 
 ## Generating a client

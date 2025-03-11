@@ -30,16 +30,16 @@
               <inputSpec>${project.basedir}/swagger.json</inputSpec>
               <generatorName>java</generatorName>
               <!-- Output the generated sources into a directory within the module -->
-              <output>${project.basedir}/../overview-client</output>
+              <output>${project.basedir}/../company-info-client</output>
               <configOptions>
                 <groupId>io.roaring.example</groupId>
-                <artifactId>overview-client</artifactId>
+                <artifactId>company-info-client</artifactId>
                 <artifactVersion>1.0.0</artifactVersion>
                 <mavenCompilerSource>1.8</mavenCompilerSource>
                 <mavenCompilerTarget>1.8</mavenCompilerTarget>
-                <apiPackage>io.roaring.example.overview.api</apiPackage>
-                <modelPackage>io.roaring.example.overview.model</modelPackage>
-                <invokerPackage>io.roaring.example.overview.invoker</invokerPackage>
+                <apiPackage>io.roaring.example.companyinfo.api</apiPackage>
+                <modelPackage>io.roaring.example.companyinfo.model</modelPackage>
+                <invokerPackage>io.roaring.example.companyinfo.invoker</invokerPackage>
               </configOptions>
             </configuration>
           </execution>

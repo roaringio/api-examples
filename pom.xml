@@ -15,8 +15,8 @@
   </properties>
   
   <modules>
-    <module>overview-app</module>
-    <module>overview-client</module>
+    <module>company-info-app</module>
+    <module>company-info-client</module>
   </modules>
   
   <!-- Optional: Define common dependency management or plugin management here -->
