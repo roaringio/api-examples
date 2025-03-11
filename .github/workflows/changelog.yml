@@ -3,7 +3,7 @@ name: changelog-workflow
 on:
   schedule:
     - cron: "45 15 * * *"
-  worflow_dispatch:
+  workflow_dispatch:
 
 jobs:
   changelog:
