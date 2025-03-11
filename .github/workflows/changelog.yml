@@ -1,8 +1,8 @@
-name: changelog-workflow
+name: Update changelog
 
 on:
   schedule:
-    - cron: "45 15 * * *"
+    - cron: "00 16 * * *"
   workflow_dispatch:
 
 jobs:
