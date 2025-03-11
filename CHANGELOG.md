@@ -28,7 +28,7 @@ With our API you will be able to screen Norwegian companies against multiple ris
 
 Reach out to customer@roaring.io for more information or to book a demo.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-risk-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-risk-1.0" target="_blank">API Docs</a>
 
 
 ## Webhook for alternative beneficial owner Norway
@@ -37,7 +37,7 @@ Reach out to customer@roaring.io for more information or to book a demo.
 
 We are happy to announce that we have now release a Webhook for the Alternative beneficial owner API in Norway.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-alt-beneficial-owners-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-alt-beneficial-owners-1.0" target="_blank">API Docs</a>
 
 
 ## Risk indicators now available in reports! 
@@ -58,7 +58,7 @@ Read more in [this article](https://help.roaring.io/en/articles/245178-new-relea
 For your information, Beneficial Owner 2.0 will be retired **January 15 2025**, in favor of [version 2.1](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.1). 
 Read more in our [lifecycle policy](https://help.roaring.io/en/articles/99241-roaring-api-lifecycle-policy).
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0" target="_blank">API Docs</a>
 
 
 ## Share Facts 1.0 now retired
@@ -68,7 +68,7 @@ Read more in our [lifecycle policy](https://help.roaring.io/en/articles/99241-ro
 We have now retired Share Facts 1.0 according to our API lifecycle policy. Please make sure to change to the new version: 
 [Share Facts 1.1](https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.1)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.0" target="_blank">API Docs</a>
 
 
 ## New subprocessor: Matomo
@@ -112,7 +112,7 @@ A list of changes made:
 
 Now you can minimize business risks by monitoring changes for business prohibitions with our newly released a Business Prohibition webhook. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-businessprohibition-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-businessprohibition-1.0" target="_blank">API Docs</a>
 
 
 ## New endpoint for transaction history, Get Account transactions.
@@ -122,7 +122,7 @@ Now you can minimize business risks by monitoring changes for business prohibiti
 We are happy to announce that we have released a new endpoint for transaction history in our Global Bank Account API.
 Through our new endpoint we now offer historcial transactions from authorized bank accounts.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-bank-account-data-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-bank-account-data-1.0" target="_blank">API Docs</a>
 
 
 ## New historic endpoint for Signatory Text SE
@@ -131,7 +131,7 @@ Through our new endpoint we now offer historcial transactions from authorized ba
 
 We have released a new historic endpoint for our Signatory Text SE API.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-signatory-1.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-signatory-1.1" target="_blank">API Docs</a>
 
 
 ## New: Introducing AI in company reports
@@ -176,7 +176,7 @@ Later this week, we expect even more Web releases, so stay tuned!
 
 As of today, Company Information 3.1 is retired. Read more in our API lifecycle for more information.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-overview-3.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-overview-3.1" target="_blank">API Docs</a>
 
 
 ## New API: Business Prohibition 1.0
@@ -188,7 +188,7 @@ A web version and webhook are to come, so stay tuned!
 
 Fore more information and docs, check this [link](https://app.roaring.io/v2/developer/apis/se-businessprohibition-1.0). 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-businessprohibition-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-businessprohibition-1.0" target="_blank">API Docs</a>
 
 
 ## New version Company Activity DK - including sector codes
@@ -200,7 +200,7 @@ The new version will now include institutional sector codes in addition to the d
 
 We will be releasing a webhook and web version of the API, so stay tuned!
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New webhook Beneficial Owner - Person 1.0
@@ -214,7 +214,7 @@ Beneficial Owner - Person 1.0
 
 For this person service we use an encryption, to see how this is implemented go to [encrypted logic](https://app.roaring.io/v2/developer/guides#section/Webhooks/Webhook-personal-number-encryption) . Contact us for more information by clicking on the chat icon or sending us an email to customer@roaring.io!
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.1" target="_blank">API Docs</a>
 
 
 ## Share Facts SE (1.0) is now deprecated
@@ -223,7 +223,7 @@ For this person service we use an encryption, to see how this is implemented go 
 
 Share Facts SE (1.0) is now deprecated and will be retired 6 months from today. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.0" target="_blank">API Docs</a>
 
 
 ## New view for agreements and usage per invoice period
@@ -234,7 +234,7 @@ We have now released a brand new view in which you will be able to see all agree
 
 In addition to this, we are now also showing the usage per invoicing period on the [Billing](https://app.roaring.io/v2/billing/invoices) page. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Sanctions Lists (2.0) Retired
@@ -243,7 +243,7 @@ In addition to this, we are now also showing the usage per invoicing period on t
 
 As of the 4th of June Sanctions Lists (2.0) is retired.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0" target="_blank">API Docs</a>
 
 
 ## Beneficial Owner SE (2.0) is now deprecated
@@ -252,7 +252,7 @@ As of the 4th of June Sanctions Lists (2.0) is retired.
 
 Beneficial Owner SE (2.0) is now deprecated and will be retired 6 months from today. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0" target="_blank">API Docs</a>
 
 
 ## New releases in Roaring Web
@@ -268,7 +268,7 @@ We are happy to announce some new releases in our Web interface. See changelist:
 - Company Status is now included in the Risk and AML reports.
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New: Easier linking in Roaring Web
@@ -279,7 +279,7 @@ As we strive to be even more user-friendly than we already are, we have now rele
 
 When having looked up a company or a person you'll be able to navigate directly to the dataset you wish to access. This will generate a click/call to the service in exactly the same way as the regular tabs work now.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New service: Company Case Register (Sweden)
@@ -291,7 +291,7 @@ See if a company has any open or closed cases at Bolagsverket with one click!
 
 You will also be able to monitor this information through Roaring Web.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New API: Company Case Register SE - 1.0
@@ -305,7 +305,7 @@ See our [documentation](https://app.roaring.io/v2/developer/apis/se-company-case
 
 This service is also available as a monitoring webhook.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-case-register-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-case-register-1.0" target="_blank">API Docs</a>
 
 
 ## New API: Global Bank Account Information
@@ -321,7 +321,7 @@ Do not hesitate to contact us through our chat or at customer@roaring.io if you 
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-bank-account-data-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-bank-account-data-1.0" target="_blank">API Docs</a>
 
 
 ## Improvements to Beneficial Owners version 2.0 
@@ -338,7 +338,7 @@ When suspicion . gradeCode = "99" the record status will be set to "EXIST" inste
 
 Both above improvements will be carried out during week 11.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0" target="_blank">API Docs</a>
 
 
 ## New report: AML verification (Sweden)
@@ -350,7 +350,7 @@ Identify risk indicators and do PEP- and sanction checks with just one click, us
 
 Find out more by clicking on the "Create report" button when checking out a company. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New API: Company Reports (Sweden)
@@ -360,7 +360,7 @@ Find out more by clicking on the "Create report" button when checking out a comp
 We are happy to announce a new API: Company Reports in Sweden. Use the two endpoints (for now) to fetch PDF reports in order to identify risks and be compliant. 
 Read more [here](https://app.roaring.io/v2/developer/apis/se-company-reports-1.0). 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-reports-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-reports-1.0" target="_blank">API Docs</a>
 
 
 ## New API: Company information NO - 4.0
@@ -370,7 +370,7 @@ Read more [here](https://app.roaring.io/v2/developer/apis/se-company-reports-1.0
 Due to changes in regulations made by the Norwegian authorities we have now released a new version of the Norwegian Company information API. 
 Read more about what this means and which changes are to be made in [this](https://help.roaring.io/en/articles/144179-new-version-company-information-norway) article. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-overview-4.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-overview-4.0" target="_blank">API Docs</a>
 
 
 ## New monitoring webhook: Company Status SE
@@ -380,7 +380,7 @@ Read more about what this means and which changes are to be made in [this](https
 We have now, beside web functionality, also added the possibility to monitor changes for Company Status in Sweden! 
 See test objects here. Contact us for a quote by clicking on the chat button when logged on to our website. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-status-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-status-1.0" target="_blank">API Docs</a>
 
 
 ## Company Status: Now available in Roaring Web! 
@@ -390,7 +390,7 @@ See test objects here. Contact us for a quote by clicking on the chat button whe
 Following the release of the API we now added the possibility check out a company's status in Roaring Web.
 This service will provide you with more detailed information on bankruptcies, liquidations and reconstructions that have happened in a company's lifecycle. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New monitoring webhook: Company Activity (NO)
@@ -400,7 +400,7 @@ This service will provide you with more detailed information on bankruptcies, li
 We have released a new monitoring webhook for one of our newer API's; Company Activity in Norway! 
 Interested? Contact us for a price estimate and check out the webhook documentation for implementation. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-activity-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-activity-1.0" target="_blank">API Docs</a>
 
 
 ## New monitoring webhook: Company Engagements
@@ -413,7 +413,7 @@ You now have the possibility to monitor information on all companies a person ha
 The same [encrypted logic](https://app.roaring.io/v2/developer/guides#section/Webhooks/Webhook-personal-number-encryption) as our Legal Information Person monitoring is implemented. 
 Contact us for more information by clicking on the chat icon or sending us an email to customer@roaring.io! 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-engagement-3.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-engagement-3.0" target="_blank">API Docs</a>
 
 
 ## New API: Company Status (Sweden)
@@ -426,7 +426,7 @@ This service will provide you with more detailed information on bankruptcies, li
 Read more on the new API in the documentation provided [here](https://app.roaring.io/v2/developer/apis/se-company-status-1.0). 
 Monitoring and a webversion are soon to come, so stay tuned!
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-status-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-status-1.0" target="_blank">API Docs</a>
 
 
 ## Company Activity in Norway - now available in Roaring Web
@@ -437,7 +437,7 @@ Last week, we announced the release of our Company Activity API after which we p
 
 Check out the new service by doing a search in Roaring Web!
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New API: Company Activity Norway
@@ -449,7 +449,7 @@ The service will also be available as a web view, so stay tuned!
 
 Read more in our documentation. Any questions? Do not hesitate to contact us on our chat. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-activity-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-activity-1.0" target="_blank">API Docs</a>
 
 
 ## New look Roaring Web
@@ -462,7 +462,7 @@ Rest assured that no functionality is lost, the changes are merely related to th
 
 Click [here](https://help.roaring.io/en/articles/124447-new-look-roaring-web) for more information!
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New webhook: Legal Information - Person
@@ -471,7 +471,7 @@ Click [here](https://help.roaring.io/en/articles/124447-new-look-roaring-web) fo
 
 We are excited to announce our new webhook for Legal Information - Person. In addition to this we have also introduced a new way of receiving events without exposing personal details in our continue request. Read more [here](https://app.roaring.io/v2/developer/guides#section/Webhooks/Webhook-personal-number-encryption). 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-person-legal-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-person-legal-1.0" target="_blank">API Docs</a>
 
 
 ## Change to usage of birthDate in Sanctions 3.0
@@ -484,7 +484,7 @@ The affected endpoint is "search". Let us know if you have any questions!
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-sanctions-lists-3.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-sanctions-lists-3.0" target="_blank">API Docs</a>
 
 
 ## NEW: Risk evaluation report
@@ -497,7 +497,7 @@ This means that you will be able to do advanced checks on your customers and sup
 Want to read more about this service? Click [here](https://help.roaring.io/en/articles/111084-new-service-in-roaring-web-company-risk-evaluation) for more information!
 Otherwise you are more than welcome to contact us on our chat or to customer@roaring.io. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## API retirement information - Population register Sweden v1.0
@@ -506,7 +506,7 @@ Otherwise you are more than welcome to contact us on our chat or to customer@roa
 
 From the 1st of December 2023 we have retired our Population Register SE - v1.0 which has previously been deprecated since June. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/person-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/person-1.0" target="_blank">API Docs</a>
 
 
 ## Changes in design for Roaring Web
@@ -523,7 +523,7 @@ We have done some changes to the design of Roaring Web with the aim to make our 
 
 As usual you can contact us by clicking on the chat-icon while on our website.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New view for company group structure and owner structure - Roaring Web
@@ -534,7 +534,7 @@ We have now updated our group structure and owner structure services in Roaring 
 
 Let us know if there are any questions regarding this by contacting us on our chat.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New and fresh view for financial information
@@ -543,7 +543,7 @@ Let us know if there are any questions regarding this by contacting us on our ch
 
 We have now launched an updated view of our financial information in Roaring Web. We are introducing this new fresh look to match with our recently released branding. Our aim is also improve the user-experience with this new look, hope you enjoy it! :) 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New Share Facts 1.1 - Now available in Roaring Web! 
@@ -552,7 +552,7 @@ We have now launched an updated view of our financial information in Roaring Web
 
 We previously released a new version of our Share Facts API containing stock exchange information. We have now activated this service in Roaring Web as well! 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New sub-processor
@@ -561,7 +561,7 @@ We previously released a new version of our Share Facts API containing stock exc
 
 Roaring will now start using Intercom as our new support and outbound communication tool. Read more [here](https://app.roaring.io/v2/about-service). 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Minor corrections of the Company Group Structure (1.0) swagger 2.0 spec
@@ -576,7 +576,7 @@ Some highlights of what has been updated:
 
 This change only applies to the swagger spec, the actual response payload/structure from the service has not been changed.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-group-structure-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-group-structure-1.0" target="_blank">API Docs</a>
 
 
 ## Norwegian Population Register 2.0: Adaptation to future changes
@@ -587,7 +587,7 @@ From the 1st of November 2023, Skatteetaten is implementing a few changes regard
 We have previously sent out an email regarding this. The most important change is that Skatteetaten will not share information for guardianshipScope or scopeIsPersonal, after the 31st of October.
 Let us know if you have any questions by contacting us on our chat or on customer@roaring.io
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New Share Facts (1.1) - SE available!
@@ -598,7 +598,7 @@ A new version of Share Facts including stocklist information is now available! H
 
 Version 1.0 will be deprecated on the 1st of December 2023 according to our API lifecycle policy.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.1" target="_blank">API Docs</a>
 
 
 ## Change to usage of birthDate parameter in Global PEP 1.0
@@ -610,7 +610,7 @@ This update will make sure that you get a list of results based on name in case 
 The affected endpoint is [search](https://app.roaring.io/v2/developer/apis/nordic-pep-1.1#/paths/~1search/get).
 Let us know if you have any questions! 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-pep-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-pep-1.0" target="_blank">API Docs</a>
 
 
 ## New: History endpoint in Signing combinations 2.0 - SE
@@ -622,7 +622,7 @@ We are excited to announce that our Signing combinations 2.0 API now contains a 
 Read more and start implementing by clicking [here](https://app.roaring.io/v2/developer/apis/se-company-signing-combinations-2.0).
 As usual, don't hesitate to contact us on our chat if you have any questions regarding the new endpoint.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-signing-combinations-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-signing-combinations-2.0" target="_blank">API Docs</a>
 
 
 ## Closing down Signing combinations 1.0 - NO
@@ -631,7 +631,7 @@ As usual, don't hesitate to contact us on our chat if you have any questions reg
 
 The previously retired version 1.0 of Signing combinations in Norway has now gone from retired to closing down entirely. For information on signing combinations in Norway we recommend to integrate towards version 2.0 instead.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Legal Information - Old document fetching endpoint removed
@@ -642,7 +642,7 @@ The old endpoint for fetching documents /fetchDocument that does not allow fetch
 
 The previously released endpoint /fetchDocumentUri replaces the old endpoint
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-legal-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-legal-1.0" target="_blank">API Docs</a>
 
 
 ## New web view - Financial Information for companies in Spain.
@@ -651,7 +651,7 @@ The previously released endpoint /fetchDocumentUri replaces the old endpoint
 
 We are happy to announce that we have released financial Information for companies in Spain in Roaring Web. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New API released - Financial information Spain! 
@@ -661,7 +661,7 @@ We are happy to announce that we have released financial Information for compani
 We are happy to announce that a new API has been released. You can now fetch the financial information for companies in Spain. Read more and start integrating by checking out our **documentation** [here](https://app.roaring.io/v2/developer/apis/es-company-financial-information-1.0).
  
 
-[API Docs](https://app.roaring.io/v2/developer/apis/es-company-financial-information-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/es-company-financial-information-1.0" target="_blank">API Docs</a>
 
 
 ## Legal information - new endpoint for fetching document
@@ -670,7 +670,7 @@ We are happy to announce that a new API has been released. You can now fetch the
 
 Fetch document should be done with a new endpoint, as original endpoint will not work for large documents. The new endpoint is called fetchDocumentUri.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Sanctions Lists 3.0 Webhook released
@@ -679,7 +679,7 @@ Fetch document should be done with a new endpoint, as original endpoint will not
 
 The sanctions 3.0 service that include the OFSI sanctions lists from The United Kindoms and the SECO lists from Switzerland can now be monitored by webhook. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-sanctions-lists-3.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-sanctions-lists-3.0" target="_blank">API Docs</a>
 
 
 ## Roaring Admin has a new look!
@@ -688,7 +688,7 @@ The sanctions 3.0 service that include the OFSI sanctions lists from The United 
 
 Experience the revamped admin page – same great functionality, but with a refreshing new look.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Changed updating process for Norwegian ownership data
@@ -705,7 +705,7 @@ API:s that will be using the new updating process is;
 - Beneficial Owner NO 1.0
 - Alternative Beneficial Owner NO 1.0
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Improved coverage in Signing Combination 2.0 SE 
@@ -715,7 +715,7 @@ API:s that will be using the new updating process is;
 Improved coverage in Signing Combination 2.0 SE
 Refinement of how we match names of board members in signing information, which makes it possible to create signing combinations for more Swedish companies.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New Sanction 3.0 API released - new list added UK & Switzerland and new  search capabilities
@@ -745,7 +745,7 @@ You can also narrow your search via the other parameters: sanctionOrg, birthDate
 The searchScore in the response is an indication of how well the hit matches the search parameters. The best matched result first and then in descending order.
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0" target="_blank">API Docs</a>
 
 
 ## New API version of Signing Combination - ES released
@@ -759,7 +759,7 @@ New data fields added.
 - entityType - We show if each signatory entity is a person, company or "undefined" 
 - added companyId for signatory entities which are companies (and where we have the companyId)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/es-company-signing-combinations-1.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/es-company-signing-combinations-1.1" target="_blank">API Docs</a>
 
 
 ## Company Information ES -Enhanced logic to better determine DeregistartionDate
@@ -770,7 +770,7 @@ Back end changes have been done to better define DeregistrationDate.
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/es-company-overview-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/es-company-overview-1.0" target="_blank">API Docs</a>
 
 
 ## New Version of  Board member ES API released
@@ -780,7 +780,7 @@ Back end changes have been done to better define DeregistrationDate.
 - New data field for deregistered.
 - We  now show the latest Board member collection on deregistered companies, 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/es-company-board-members-1.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/es-company-board-members-1.1" target="_blank">API Docs</a>
 
 
 ## Retirement of Signatory Text 1.0 - SE  API
@@ -789,7 +789,7 @@ Back end changes have been done to better define DeregistrationDate.
 
 The API have met is lifecycle end, and half first been deprecated, now all existing client using the API have been removed to new API version of the service. The API will therefore now be retired.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New API in Spain released - ES Boardmembers and roles.
@@ -801,7 +801,7 @@ The API contains information the companies executives such as the Board, CEO and
 
 Full documentation [here](https://app.roaring.io/v2/developer/apis/es-company-board-members-1.0)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New web view - Legal Information Person
@@ -813,7 +813,7 @@ The legal information Person is now released in Roaring web. It can be used to e
 
 The service will be available for customers that follows under the anti money laundering act. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ##  Sanctions 2.0 Improved documentation regarding quert parameters
@@ -822,7 +822,7 @@ The service will be available for customers that follows under the anti money la
 
 This change also gives an update of the Sanctions 2.0 Swagger.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Legal Information Person API 1.0
@@ -833,7 +833,7 @@ The legal information Person API can be used to enhance any customers B2B, B2C o
 
 Full documentation [here](https://app.roaring.io/developer/api/se-person-legal-1.0)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-person-legal-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-person-legal-1.0" target="_blank">API Docs</a>
 
 
 ## Beneficial Owners SE 2.0 - Data transform update
@@ -842,7 +842,7 @@ Full documentation [here](https://app.roaring.io/developer/api/se-person-legal-1
 
 Beneficial Owners SE 2.0 data transform now includes information from Bolagsverket about companies exempt from reporting beneficial owners. This fixes the issue with companies already in beneficial owner registry having old beneficial owners appearing to be current beneficial owners.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Legal Information Company Webhook
@@ -851,7 +851,7 @@ Beneficial Owners SE 2.0 data transform now includes information from Bolagsverk
 
 Now you can monitor changes regarding legal occurrences in relation to board members, beneficial owners and alternative beneficial owners.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Person SE 2.0 Swagger corrections
@@ -860,7 +860,7 @@ Now you can monitor changes regarding legal occurrences in relation to board mem
 
 Unused object "members" has been removed from the swagger and the status object has been corrected to hold all three included attributes.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/person-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/person-2.0" target="_blank">API Docs</a>
 
 
 ## Webview update Norwegian Person
@@ -869,7 +869,7 @@ Unused object "members" has been removed from the swagger and the status object 
 
 Person NO - Added parentalResponsibility object to web view. Now it is possible to see what kind of custody a parent has for a child.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Added missing responseMode attribute to status block in Person SE 2.0 API
@@ -880,7 +880,7 @@ A responseMode attribute describing if the population data is delivered directly
 responseMode:1 means that the data is direct from spar and responseMode:2 means that the data comes via our datapartner. 
 For all customers that has the fallback activated regarding SPAR, the ResponseMode makes it possible to see if spar is having issues.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/person-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/person-2.0" target="_blank">API Docs</a>
 
 
 ## Control which sanction organisations to be uesed in the API call
@@ -891,7 +891,7 @@ Added possibility to select which sanctions list to be used in the API call.
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0" target="_blank">API Docs</a>
 
 
 ## Released Settings to control which sanction list(s) to be used in Roaring Web.
@@ -901,7 +901,7 @@ Added possibility to select which sanctions list to be used in the API call.
 we have Added the possibility to select which sanctions list to be searched from Permissions & Settings.
 Fin the settings [here](https://app.roaring.io/admin/permissions). This feature gives you the control to control which lists should be used in Roaring Web. Today we support UN, OFAC and EU lists.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Signatory Text (1.0) FI
@@ -910,7 +910,7 @@ Fin the settings [here](https://app.roaring.io/admin/permissions). This feature 
 
 Three new Signatory rights added according to statutory representation.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Person 1.0 (NO)
@@ -919,7 +919,7 @@ Three new Signatory rights added according to statutory representation.
 
 Person NO 1.0 (API) has been RETIRED as the underlying service at Norwegian Skatteetaten reached end-of-life 2022-09-30.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New web view for Spanish owner structure
@@ -928,7 +928,7 @@ Person NO 1.0 (API) has been RETIRED as the underlying service at Norwegian Skat
 
 Release of Owner Structure information for Spanish companies. Get owner structure for company based on owner information in Roaring web. Information can also be be filed as PDF.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of  Spanish Owner Structure API 
@@ -937,7 +937,7 @@ Release of Owner Structure information for Spanish companies. Get owner structur
 
 Release of Owner Structure API for Spanish companies. Get owner structure for company based on owner information. Full documentation [here](https://app.roaring.io/developer/api/es-company-owner-structure-1.0)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Group Structure web view - Spain
@@ -948,7 +948,7 @@ We have released a new web view to present Spanish Group Structure in our web ap
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Board Members Finland history endpoint
@@ -959,7 +959,7 @@ We have released a new endpoint for Board Members FI history.
 
 Read more [here](https://app.roaring.io/developer/api/fi-company-board-members-1.0#/paths/~1history~1%7BcompanyId%7D/get)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Beneficial Owners Denmark history endpoint now available
@@ -970,7 +970,7 @@ We have released new endpoint for historical Beneficial Owners DK.
 
 Read more [here](https://app.roaring.io/developer/api/dk-company-beneficial-owners-1.0#/paths/~1history~1%7BcompanyId%7D/get)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Board Members Norway history web view 
@@ -979,7 +979,7 @@ Read more [here](https://app.roaring.io/developer/api/dk-company-beneficial-owne
 
 We have released a new web view for historical Board Members in Norway.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Group Structure ES  1.0 API published
@@ -990,7 +990,7 @@ Group Structure ES API is now Released.
 
 The Company Group Structure lists all companies that are part of a group and its ownership relationships. Full documentation of the API can be found [here](https://app.roaring.io/developer/api/es-company-group-structure-1.0)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/es-company-group-structure-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/es-company-group-structure-1.0" target="_blank">API Docs</a>
 
 
 ## New Web View- Company Activity history SE
@@ -999,7 +999,7 @@ The Company Group Structure lists all companies that are part of a group and its
 
 We have added Company Activity History for Swedish companies in the web view. Information also included when generating PDF report.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Board member and roles (DK)API 1.0 now also have history endpoint
@@ -1013,7 +1013,7 @@ The Endpoint contains historical information about the companies executives such
 
 Read full documentation and get the new endpoint [here](https://app.roaring.io/developer/api/dk-company-board-members-1.0#/paths/~1history~1%7BcompanyId%7D/get)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-board-members-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-board-members-1.0" target="_blank">API Docs</a>
 
 
 ## Current version of Population Register Version 1.0 (SE) will be deprecated.
@@ -1029,7 +1029,7 @@ Population register SE 1.0 - API (Sweden) is coming to its product lifecycle end
 
 More information about the changes between the API versions is found here: [wwwwwwwwww](url) 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/person-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/person-1.0" target="_blank">API Docs</a>
 
 
 ## Release of new API version Population Register 2.0 SE 
@@ -1045,7 +1045,7 @@ Need more information? please contact our customer support.
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/person-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/person-2.0" target="_blank">API Docs</a>
 
 
 ## Deprecation of Signatory text (1.0)  Norway (NO)
@@ -1058,7 +1058,7 @@ For further information and guidance on the process, contact our Customer Succes
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-signatory-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-signatory-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Spanish signing combinations in Roaring web.
@@ -1067,7 +1067,7 @@ For further information and guidance on the process, contact our Customer Succes
 
 Release of Spanish signing combinations in Roaring web.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of historical Alternative Beneficial Owners SE
@@ -1076,7 +1076,7 @@ Release of Spanish signing combinations in Roaring web.
 
 Historical information on Alternative Beneficial Owners is introduced in Roaring web.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## History endpoint added to Company Activity SE
@@ -1085,7 +1085,7 @@ Historical information on Alternative Beneficial Owners is introduced in Roaring
 
 The possibility to lookup companies historical company activity information through a history endpoint has been added to the API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-activity-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-activity-1.0" target="_blank">API Docs</a>
 
 
 ## History endpoint added to Alternative Beneficial Owner SE
@@ -1094,7 +1094,7 @@ The possibility to lookup companies historical company activity information thro
 
 The possibility to lookup historical Alternative Beneficial Owners through a history endpoint has been added to the API.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-alt-beneficial-owners-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-alt-beneficial-owners-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Alternative Beneficial Owner control - (Legal information)
@@ -1105,7 +1105,7 @@ We have included the Role Alternative Beneficial Owner. This role is know also c
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Release of Spanish Company search API 1.0
@@ -1114,7 +1114,7 @@ We have included the Role Alternative Beneficial Owner. This role is know also c
 
 Company search API for Spanish companies. Version 1.0
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Release of Spanish company search & basic company information in Roaring web.
@@ -1123,7 +1123,7 @@ Company search API for Spanish companies. Version 1.0
 
 Release of Spanish Company search and display of basic company information in Roaring web.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New consumption graph - Better consumption overview for administrator.
@@ -1132,7 +1132,7 @@ Release of Spanish Company search and display of basic company information in Ro
 
 Detailed consumption overview under billing pricing section in admin for roaring web.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of  Legal Information - WEB
@@ -1141,7 +1141,7 @@ Detailed consumption overview under billing pricing section in admin for roaring
 
 We have now released the possibility to verify if a company occurs in legal documents. Legal Information is now available in the company web view.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## New Role code added
@@ -1150,7 +1150,7 @@ We have now released the possibility to verify if a company occurs in legal docu
 
 The API now also include the Role Code Beneficial Owner.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-legal-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-legal-1.0" target="_blank">API Docs</a>
 
 
 ## Name change for our "Board Directorships" services.
@@ -1159,7 +1159,7 @@ The API now also include the Role Code Beneficial Owner.
 
 Name change for our **Board Directorships** services in Sweden and Norway. New name **Company engagements**.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## History badges added to the API list.
@@ -1170,7 +1170,7 @@ This applies to APIs that have endpoints that allow historical information to be
 
 For example [Company Engagements](https://app.roaring.io/developer/api/se-company-engagement-3.0).
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Danish Signatory Text 2.0
@@ -1181,7 +1181,7 @@ New in this version:
 * We have removed the listing of persons in favour of composite texts.
 * We have added linking words. For example, "or" and "together with" which makes it easier to visually verify company signatories.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-signatory-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-signatory-2.0" target="_blank">API Docs</a>
 
 
 ## Deprecation of API services Q2 2022
@@ -1204,7 +1204,7 @@ Beneficial Owner, SE, 1.0, New 2.0
 
 Financial Information, SE, 2.0, New 2.1
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Retired the old Swedish company events service
@@ -1215,7 +1215,7 @@ Before the webhooks were introduced we created an event api where customers coul
 
 Now that the last customer has been moved from this old service its high time for this old dog to be put to sleep.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-event-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-event-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Legal Information API
@@ -1226,7 +1226,7 @@ Verify if a company and or current or historical board occurs in legal documents
 
 In later release we will add Beneficial Owner & Alternative Beneficial Owner. 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-legal-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-legal-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Spanish Signing Combinations API
@@ -1235,7 +1235,7 @@ In later release we will add Beneficial Owner & Alternative Beneficial Owner.
 
 Version 1.0 of Spanish Signing Combinations API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/es-company-signing-combinations-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/es-company-signing-combinations-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Spanish Company Information API
@@ -1244,7 +1244,7 @@ Version 1.0 of Spanish Signing Combinations API
 
 Version 1.0 of Spanish Company Information API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/es-company-overview-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/es-company-overview-1.0" target="_blank">API Docs</a>
 
 
 ## Company Group Structure (DK) introduced in Roaring Web Application
@@ -1255,7 +1255,7 @@ As usual, the service is also available via API, read more about it [here](https
 
 If you wish to monitor changes to the company group structure, the service is also available as a [webhook](https://app.roaring.io/developer/webhooks) 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## History endpoint added to Company Information NO
@@ -1264,7 +1264,7 @@ If you wish to monitor changes to the company group structure, the service is al
 
 The possibility to lookup companies historical company information through a history endpoint has been added to the API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-overview-3.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-overview-3.1" target="_blank">API Docs</a>
 
 
 ## History endpoint added to Company Information DK
@@ -1273,7 +1273,7 @@ The possibility to lookup companies historical company information through a his
 
 The possibility to lookup companies historical company information through a history endpoint has been added to the API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-overview-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-overview-1.0" target="_blank">API Docs</a>
 
 
 ## History endpoint added to Engagements SE service
@@ -1282,7 +1282,7 @@ The possibility to lookup companies historical company information through a his
 
 A possibility to lookup companies historical board members has been added to the API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-engagement-3.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-engagement-3.0" target="_blank">API Docs</a>
 
 
 ## Financial Information 2.1
@@ -1291,7 +1291,7 @@ A possibility to lookup companies historical board members has been added to the
 
 New in this version: The service now also includes consolidated financial statements.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-economy-overview-2.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-economy-overview-2.1" target="_blank">API Docs</a>
 
 
 ## Rating Company (SE) introduced in Roaring Web Application
@@ -1302,7 +1302,7 @@ Read more about Rating Company [here](https://app.roaring.io/developer/api/se-co
 
 ![change-log-img](https://assets.roaring.io/png/company-rating-1.0.png)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Beneficial owner history (SE) introduced in Roaring Web Application
@@ -1311,7 +1311,7 @@ Read more about Rating Company [here](https://app.roaring.io/developer/api/se-co
 
 Read more about Beneficial owner history endpoint [here](https://app.roaring.io/developer/api/se-beneficialowner-2.0#/paths/~1company~1history~1{companyId}/get)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Global PEP introduced in Roaring Web Application
@@ -1324,7 +1324,7 @@ In order to use Global PEP you need to apply for permission.
 
 Read more about Global PEP API [here](https://app.roaring.io/developer/api/global-pep-1.0).
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Roaring Web Application v2.0.9
@@ -1335,7 +1335,7 @@ Read more about Global PEP API [here](https://app.roaring.io/developer/api/globa
 - Board Directorships SE in web is up to date with 3.0 - [read more here](https://app.roaring.io/developer/api/se-company-engagement-3.0)
 - PDF design improvements
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## API Retirement Information price adjustment 
@@ -1370,7 +1370,7 @@ If you have any questions or concern, don't hesitate to get in touch at roaring.
 
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Roaring Web Application v2.0.8
@@ -1383,7 +1383,7 @@ If you have any questions or concern, don't hesitate to get in touch at roaring.
 - Service window has a new look.
 - Users are able to download terms and agreement as PDF.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Release of Danish Company Activity API.
@@ -1392,7 +1392,7 @@ If you have any questions or concern, don't hesitate to get in touch at roaring.
 
 Version 1.0 of Company Activity API DK
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-activity-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-activity-1.0" target="_blank">API Docs</a>
 
 
 ## Norwegian population registry service version 2.0 - change from supplier regarding address data
@@ -1401,7 +1401,7 @@ Version 1.0 of Company Activity API DK
 
 Preferred contact address is no longer available from the Norwegian population registry (FREG). This is because of a decision from the supplier. FREG will remove any existing preferred contact addresses from the register.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-person-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-person-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Global PEP API.
@@ -1410,7 +1410,7 @@ Preferred contact address is no longer available from the Norwegian population r
 
 Version 1.0 of Global PEP API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-pep-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-pep-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Danish Owner structure in WEB
@@ -1419,7 +1419,7 @@ Version 1.0 of Global PEP API
 
 Danish Owner Structure is now available in the company web view
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Roaring Web Application v2.0.4 
@@ -1429,7 +1429,7 @@ Danish Owner Structure is now available in the company web view
 - Added API consumption calculator
 - Introduced PDF preview
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Danish Signatory Right API.
@@ -1438,7 +1438,7 @@ Danish Owner Structure is now available in the company web view
 
 Version 1.0 of Signatory Right API DK
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-signing-rights-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-signing-rights-1.0" target="_blank">API Docs</a>
 
 
 ## History endpoint added to Beneficial Owner Se service
@@ -1447,7 +1447,7 @@ Version 1.0 of Signatory Right API DK
 
 A possibility to lookup companies historical beneficial owners has been added to the API
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Norwegian population registry service version 2.0
@@ -1458,7 +1458,7 @@ A possibility to lookup companies historical beneficial owners has been added to
 - New endpoints and a completely reworked json structure.
 - The permission application for connecting to version 2.0 of the API is from now on digitally handled via self service in the Norwegian government portal altinn.no
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-person-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-person-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Danish Company Owner Structure API.
@@ -1467,7 +1467,7 @@ A possibility to lookup companies historical beneficial owners has been added to
 
 Version 1.0 of Company Owner Structure DK
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-owner-structure-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-owner-structure-1.0" target="_blank">API Docs</a>
 
 
 ## History endpoint introduced for swedish board members 
@@ -1476,7 +1476,7 @@ Version 1.0 of Company Owner Structure DK
 
 It is now possible to retrieve historical board member information
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-board-members-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-board-members-2.0" target="_blank">API Docs</a>
 
 
 ## Release of monitoring service for Group structure DK 
@@ -1485,7 +1485,7 @@ It is now possible to retrieve historical board member information
 
 Changes to customer data you've chosen to monitor will pushed to you when they occur. It's never been as easy and secure as this.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Danish Group Structure API.
@@ -1494,7 +1494,7 @@ Changes to customer data you've chosen to monitor will pushed to you when they o
 
 Version 1.0 of Group Structure DK
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-group-structure-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-group-structure-1.0" target="_blank">API Docs</a>
 
 
 ## History endpoint introduced for swedish companies
@@ -1503,7 +1503,7 @@ Version 1.0 of Group Structure DK
 
 It is now possible to retrieve historical company information
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-overview-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-overview-2.0" target="_blank">API Docs</a>
 
 
 ## Release of monitoring service for Group structure NO
@@ -1512,7 +1512,7 @@ It is now possible to retrieve historical company information
 
 Changes to customer data you've chosen to monitor will pushed to you when they occur. It's never been as easy and secure as this.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Release of monitoring service for Establishments NO 
@@ -1521,7 +1521,7 @@ Changes to customer data you've chosen to monitor will pushed to you when they o
 
 Changes to customer data you've chosen to monitor will pushed to you when they occur. It's never been as easy and secure as this.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of monitoring service for Beneficial Owners NO 
@@ -1530,7 +1530,7 @@ Changes to customer data you've chosen to monitor will pushed to you when they o
 
 Changes to customer data you've chosen to monitor will pushed to you when they occur. It's never been as easy and secure as this.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/undefined){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/undefined" target="_blank">API Docs</a>
 
 
 ## Release of Norwegian Group Structure API.
@@ -1539,7 +1539,7 @@ Changes to customer data you've chosen to monitor will pushed to you when they o
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-group-structure-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-group-structure-1.0" target="_blank">API Docs</a>
 
 
 ## Company Search No, new query parameter
@@ -1549,7 +1549,7 @@ undefined
 - Net sales query parameter has been added to the Norwegian search, this makes it possible to search Norwegian companies with a certain revenue level.
 - Metrics for this has also been added to the metric object in the response.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-search-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-search-2.0" target="_blank">API Docs</a>
 
 
 ## Roaring Web Application v1.4.15
@@ -1560,7 +1560,7 @@ undefined
 - Signatory text introduced Finland 1.0 added to the web
 - PEP/Sanctions view has been reworked
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Company Search SE improved
@@ -1569,7 +1569,7 @@ undefined
 
 char filter map och => &, synonym aktiebolag, ab, ascii folding i.e. ao match åäö
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-search-1.2){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-search-1.2" target="_blank">API Docs</a>
 
 
 ## Release of Financial Information API for Norway
@@ -1578,7 +1578,7 @@ char filter map och => &, synonym aktiebolag, ab, ascii folding i.e. ao match å
 
 New API with financial information for Norwegian companies
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-financial-information-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-financial-information-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Finnish Signatory Text API.
@@ -1587,7 +1587,7 @@ New API with financial information for Norwegian companies
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/fi-company-signatory-text-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/fi-company-signatory-text-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.14
@@ -1597,7 +1597,7 @@ undefined
 - Danish language introduced in the product
 - Partner system integration functionality added (BETA version)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Removed unused parameter from swagger of Signatory text NO 1.0
@@ -1606,7 +1606,7 @@ undefined
 
 In API Signatory text NO 1.0 the parameter "personId" in signatoryPerson is never populated and has never been returned from the API, therefore it is now removed from the swagger
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-signatory-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-signatory-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.13
@@ -1621,7 +1621,7 @@ New Web release
   -  Invoice period consumption possible to download
   -  Web monitoring on Swedish AML registry added
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Beneficial Owner SE 2.0 Cleaned away unused attributes from swagger
@@ -1630,7 +1630,7 @@ New Web release
 
 in the beneficialOwners array the objects contained attributes "association" and "registrationDate" since they were never populated by the service 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0" target="_blank">API Docs</a>
 
 
 ## Retiring old Norwegian Search and Company Information
@@ -1641,7 +1641,7 @@ Following services has now been retired and will no longer be available:
 - Norwegian Company Information 1.0
 - Norwegian Company Search 1.0
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.12
@@ -1657,7 +1657,7 @@ Finnish Web Release
     - Signing Combinations 1.0
 - Finnish company lookup in signup flow
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Norwegian Signing combinations 1.0 Deprecated
@@ -1666,7 +1666,7 @@ Finnish Web Release
 
 The Norwegian Company Signing Combinations service version 1.0 is deprecated and is scheduled for shutdown at the latest on the 12th of August 2021
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-signing-combinations-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-signing-combinations-1.0" target="_blank">API Docs</a>
 
 
 ## Norwegian Company Search 1.0 Deprecated
@@ -1675,7 +1675,7 @@ The Norwegian Company Signing Combinations service version 1.0 is deprecated and
 
 The Norwegian Company Search version 1.0 is deprecated and is scheduled for shutdown at the latest on the 12th of August 2021
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-search-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-search-1.0" target="_blank">API Docs</a>
 
 
 ## Danish Person 1.0 released
@@ -1684,7 +1684,7 @@ The Norwegian Company Search version 1.0 is deprecated and is scheduled for shut
 
 New API for fetching information about Danish citizens
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-person-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-person-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.11
@@ -1693,7 +1693,7 @@ New API for fetching information about Danish citizens
 
 Adding possibility to pay in NOK and EUR
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Finnish Company API's no longer in trial!
@@ -1707,7 +1707,7 @@ The Finnish company API's have now been released out of trial version. The API's
 - Signing Combinations
 - Beneficial Owner
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.10
@@ -1719,7 +1719,7 @@ The Finnish company API's have now been released out of trial version. The API's
 - Beneficial Owner SE 2.0 showing better suspicion grades used in web.
 - KYC template questionnaires now available for persons
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Sweden Beneficial Owner 2.0 released
@@ -1732,7 +1732,7 @@ The Finnish company API's have now been released out of trial version. The API's
 - Structure now conforming to Roaring standard
 
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-beneficialowner-2.0" target="_blank">API Docs</a>
 
 
 ## Norwegian Company Establishments service released!
@@ -1741,7 +1741,7 @@ The Finnish company API's have now been released out of trial version. The API's
 
 The Norwegian Establishments service responds with a list of all subunits a company have given its companyId
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-establishment-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-establishment-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.9
@@ -1752,7 +1752,7 @@ The Norwegian Establishments service responds with a list of all subunits a comp
 - Changed agreements management with better presentation on account pages and notifications
 - Switched colors on API icons
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Removed unused metric from Norwegian Company Search 2.0
@@ -1761,7 +1761,7 @@ The Norwegian Establishments service responds with a list of all subunits a comp
 
 The swagger definition for the Norwegian Search included a field for legalGroupText which never have been part of the response. This has now been cleaned from the swagger. The legalGroupCode is providing metrics on the same level
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-search-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-search-2.0" target="_blank">API Docs</a>
 
 
 ## Released first version of Share Facts API
@@ -1770,7 +1770,7 @@ The swagger definition for the Norwegian Search included a field for legalGroupT
 
 - New api with share information and issue details
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-share-facts-1.0" target="_blank">API Docs</a>
 
 
 ## Trial version of Signing Combinations for Finland
@@ -1779,7 +1779,7 @@ The swagger definition for the Norwegian Search included a field for legalGroupT
 
 - Released first version of Finnish signing combinations api in trial mode, this meaning that the data available in the service is not up to date
 
-[API Docs](https://app.roaring.io/v2/developer/apis/fi-company-signing-combinations-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/fi-company-signing-combinations-1.0" target="_blank">API Docs</a>
 
 
 ## Try api for sandbox with available items in dropdown
@@ -1788,7 +1788,7 @@ The swagger definition for the Norwegian Search included a field for legalGroupT
 
 For the sandbox try api. The available sandbox items are now possible to choose from in a dropdown, removing the need to jump back and forth between docs page and try api function.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Norwegian Company Information version 3.1
@@ -1800,7 +1800,7 @@ For the sandbox try api. The available sandbox items are now possible to choose 
 - Parameter mainUnitCompanyId that holds reference to main unit from a sub unit has been added.
 - Sub units have been added to company information dataset.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-overview-3.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-overview-3.1" target="_blank">API Docs</a>
 
 
 ## Roaring Web Application v1.4.8
@@ -1812,7 +1812,7 @@ For the sandbox try api. The available sandbox items are now possible to choose 
 - E-mail sending service changed to AWS email service in place of mailchimp
 - Improved onboarding for Partner customers
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Roaring Web Application v1.4.7
@@ -1823,7 +1823,7 @@ For the sandbox try api. The available sandbox items are now possible to choose 
 - AML Anti Money Laundry section added for Swedish company view
 - Person relation information added to Norwegian person view
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Norwegian Signing Combination 2.0 
@@ -1833,7 +1833,7 @@ For the sandbox try api. The available sandbox items are now possible to choose 
 - Improved coverage on signing for FLI companies where a board is available.
 - Updated with structure according to newer API standard with response status object etc.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-signing-combinations-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-signing-combinations-2.0" target="_blank">API Docs</a>
 
 
 ## Roaring Web Application v1.4.6
@@ -1842,7 +1842,7 @@ For the sandbox try api. The available sandbox items are now possible to choose 
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Swedish Establishments 2.0
@@ -1851,7 +1851,7 @@ undefined
 
 - Updated to follow general structure and framework of other API's most notable difference being the addition of status object in response
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-establishment-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-establishment-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.5
@@ -1860,7 +1860,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Board Directorships 3.0 SE improved and extended
@@ -1872,7 +1872,7 @@ Filter parameters includeWithRoleCode, excludeWithRoleCode, includeRoleCode, exc
 includeWithRoleCode, excludeWithRoleCode will include or exclude engagements with specified role code(s).includeRoleCode, excludeRoleCode will include or exclude roles with specified role code(s). 
 Empty engagements as a result of applying roleCode filters will not be included in the response.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-engagement-3.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-engagement-3.0" target="_blank">API Docs</a>
 
 
 ## Trial version of Board members and Roles for Finland
@@ -1881,7 +1881,7 @@ Empty engagements as a result of applying roleCode filters will not be included 
 
 - Released first version of Finnish board member api in trial mode, this meaning that the data available in the service is not up to date
 
-[API Docs](https://app.roaring.io/v2/developer/apis/fi-company-board-members-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/fi-company-board-members-1.0" target="_blank">API Docs</a>
 
 
 ## Trial version of Company information for Finland
@@ -1890,7 +1890,7 @@ Empty engagements as a result of applying roleCode filters will not be included 
 
 - Released first version of Finnish company api in trial mode, this meaning that the data available in the service is not up to date
 
-[API Docs](https://app.roaring.io/v2/developer/apis/fi-company-overview-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/fi-company-overview-1.0" target="_blank">API Docs</a>
 
 
 ## Trial version of Company Search for Finland
@@ -1899,7 +1899,7 @@ Empty engagements as a result of applying roleCode filters will not be included 
 
 - Released first version of Finnish company search api in trial mode, this meaning that the data available in the service is not up to date
 
-[API Docs](https://app.roaring.io/v2/developer/apis/fi-company-search-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/fi-company-search-1.0" target="_blank">API Docs</a>
 
 
 ## Norway Company Information 3.0
@@ -1910,7 +1910,7 @@ Empty engagements as a result of applying roleCode filters will not be included 
 - Address country has been added
 - Industry sector code has been added
 
-[API Docs](https://app.roaring.io/v2/developer/apis/no-company-overview-3.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/no-company-overview-3.0" target="_blank">API Docs</a>
 
 
 ## Swedish Anti Money Laundry API 1.0
@@ -1919,7 +1919,7 @@ Empty engagements as a result of applying roleCode filters will not be included 
 
 - Released api for the Swedish official anti money laundry (AML) registry
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-aml-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-aml-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Swedish Company Search 2.0
@@ -1928,7 +1928,7 @@ Empty engagements as a result of applying roleCode filters will not be included 
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-search-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-search-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.4
@@ -1937,7 +1937,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.3
@@ -1946,7 +1946,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Sanctions Lists 2.0
@@ -1960,7 +1960,7 @@ undefined
 - Moved UN list type information to regulation programme field
 - Added vessel information object to handle sanctioned vessels
 
-[API Docs](https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/global-sanctions-lists-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.2
@@ -1969,7 +1969,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## API Deprecation
@@ -1995,7 +1995,7 @@ OTHER
 PEP (1.0)
 Sanktionslistor (1.0)
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.1
@@ -2004,7 +2004,7 @@ Sanktionslistor (1.0)
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Politically Exposed Persons (PEP) 1.1
@@ -2013,7 +2013,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/nordic-pep-1.1){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/nordic-pep-1.1" target="_blank">API Docs</a>
 
 
 ## Release of Roaring Web Application v1.4.0
@@ -2022,7 +2022,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Sanctions Lists 2.0 with added OFAC SDN and consolidated sanctions lists.
@@ -2045,7 +2045,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-signing-combinations-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-signing-combinations-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Danish Beneficial Owner.
@@ -2054,7 +2054,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-beneficial-owners-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-beneficial-owners-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Right to Sign 2.0.
@@ -2063,7 +2063,7 @@ undefined
 
 Response structure improved
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-right-to-sign-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-right-to-sign-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Danish Signatory text API.
@@ -2072,7 +2072,7 @@ Response structure improved
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-signatory-text-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-signatory-text-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Danish Board Members API.
@@ -2081,7 +2081,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-board-members-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-board-members-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Credit Decision Person.
@@ -2090,7 +2090,7 @@ undefined
 
  Instant credit checks and automated credit decisions for individuals.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-person-credit-decision-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-person-credit-decision-1.0" target="_blank">API Docs</a>
 
 
 ## Personal Register is now available as a monitoring service via webhooks.
@@ -2106,7 +2106,7 @@ undefined
 
 This is an extended version of the Financial Information API which now contains data for the last 5 years of operations.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-economy-overview-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-economy-overview-2.0" target="_blank">API Docs</a>
 
 
 ## Release of KYC report for Sweden on Roaring Web.
@@ -2115,7 +2115,7 @@ This is an extended version of the Financial Information API which now contains 
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Owner structure in Roaring Web for Sweden.
@@ -2124,7 +2124,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Rating API for Sweden.
@@ -2133,7 +2133,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-rating-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-rating-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Company Search API for Denmark.
@@ -2142,7 +2142,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-search-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-search-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Owner structure API for Sweden. 
@@ -2151,7 +2151,7 @@ undefined
 
 An API which lets you see who owns a company and the Owner structure.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-owner-structure-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-owner-structure-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Company Information (Overview) API for Denmark.
@@ -2160,7 +2160,7 @@ An API which lets you see who owns a company and the Owner structure.
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/dk-company-overview-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/dk-company-overview-1.0" target="_blank">API Docs</a>
 
 
 ## Release of Alternative Beneficial Owner for Sweden.
@@ -2169,7 +2169,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-alt-beneficial-owners-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-alt-beneficial-owners-1.0" target="_blank">API Docs</a>
 
 
 ## Release of webhooks based monitoring service for Company Information SE.
@@ -2178,7 +2178,7 @@ undefined
 
 undefined
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Company Information SE 2.0
@@ -2193,7 +2193,7 @@ Changes in this version
 - Added Status object
 - Introduced standard records array for returned objects
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-overview-2.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-overview-2.0" target="_blank">API Docs</a>
 
 
 ## Release of Beneficial Owner and Alternative Beneficial Owner for Norway.
@@ -2202,7 +2202,7 @@ Changes in this version
 
 Search either by organisational number to get a list of the Beneficial Owners of a company, or enter a personal identification number and get a list of the companies a person is registered as a Beneficial Owner for.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Board Directorships (engagements) API for Norway. 
@@ -2211,7 +2211,7 @@ Search either by organisational number to get a list of the Beneficial Owners of
 
 Board Directorships lets you see the companies a persons is involved in as a board member. Perfect for creating smooth and secure onboarding processes.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Board Members API for Norway. 
@@ -2220,7 +2220,7 @@ Board Directorships lets you see the companies a persons is involved in as a boa
 
 Board Members for companies in Norway is now available. Lets you check the board members of a company. Perfect for onboarding processes or compliancy requirements.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of monitoring service for Sanctions lists. 
@@ -2229,7 +2229,7 @@ Board Members for companies in Norway is now available. Lets you check the board
 
 Enables effective and hassle free monitoring of sanctions lists.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of monitoring service for Beneficial Owner.
@@ -2238,7 +2238,7 @@ Enables effective and hassle free monitoring of sanctions lists.
 
 Changes to customer data you've chosen to monitor will pushed to you when they occur. It's never been as easy and secure as this.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Swedish Company Activity. 
@@ -2248,7 +2248,7 @@ Changes to customer data you've chosen to monitor will pushed to you when they o
 Provides information about the company activity. 
 - Lists any secondary names and shows the industries the company has registered activities in.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-activity-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-activity-1.0" target="_blank">API Docs</a>
 
 
 ## Release of monitoring service for Politically Exposed Persons (PEP).
@@ -2257,7 +2257,7 @@ Provides information about the company activity.
 
 PEP related changes to customer data you've chosen to monitor. We use webhooks to push changes to the information to you when they occur.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Swedish Company Group Structure service
@@ -2266,7 +2266,7 @@ PEP related changes to customer data you've chosen to monitor. We use webhooks t
 
 Release of Company Group Structure which lets you list all companies that are part of a group and its ownership relationships. Shows percentage of ownership. Perfect for KYC checks.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-group-structure-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-group-structure-1.0" target="_blank">API Docs</a>
 
 
 ## Release of new versions of API services Company Search (1.2) and Engagements (2.0).
@@ -2284,7 +2284,7 @@ Release of new API services for Know Your Customer procedures.
 - Check if persons are listed as PEP (Politically Exposed Person) 
 - Control if your customers are listed on sanction lists by EU or UN
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Swedish Beneficial Owner service, is released today.
@@ -2293,7 +2293,7 @@ Release of new API services for Know Your Customer procedures.
 
 Our latest service, Beneficial Owner, is released today. The service lets you find Beneficial Owners of a company without manual work.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Signing Combination Norway
@@ -2302,7 +2302,7 @@ Our latest service, Beneficial Owner, is released today. The service lets you fi
 
 Our success service Signing Combinations released in Norway!
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Closing down Company API.
@@ -2311,7 +2311,7 @@ Our success service Signing Combinations released in Norway!
 
 At the end of the year 31/12/2018 we will close Company API. All services related to Company API will still be available as individual APIs.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## New search tool, Company Search.
@@ -2320,7 +2320,7 @@ At the end of the year 31/12/2018 we will close Company API. All services relate
 
 We're releasing a new search tool, Company Search. We will be closing down the Simple Search service at the 31st of May 2019.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of Company Search. 
@@ -2329,7 +2329,7 @@ We're releasing a new search tool, Company Search. We will be closing down the S
 
 Text based company search allowing you to search on Company name or location.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Release of our API service for person information service (Person) in Norway.
@@ -2345,7 +2345,7 @@ undefined
 
 Unique service making it easier than ever to register B2B customers.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/se-company-signing-combinations-1.0){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/se-company-signing-combinations-1.0" target="_blank">API Docs</a>
 
 
 ## Authentication changed to Client Credentials flow
@@ -2354,7 +2354,7 @@ Unique service making it easier than ever to register B2B customers.
 
 Change of recommended authentication method from grant type password to grant type client credentials. Both methods are still accepted and functional.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
 ## Company API - deprecated
@@ -2370,6 +2370,6 @@ undefined
 
 Great for creating stable and usable onboarding and registration services for B2B.
 
-[API Docs](https://app.roaring.io/v2/developer/apis/){:target="_blank"}
+<a href="https://app.roaring.io/v2/developer/apis/" target="_blank">API Docs</a>
 
 
