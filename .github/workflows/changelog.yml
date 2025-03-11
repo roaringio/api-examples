@@ -14,10 +14,8 @@ jobs:
       - uses: actions/checkout@v4
       - uses: oven-sh/setup-bun@v2
       - name: Generate changlog
-        run: bun scripts/changelog.ts > CHANGELOG.md
-
-      - name: Commit changes if any
         run: |
+          bun scripts/changelog.ts > CHANGELOG.md
           git config --local user.email "info@roaring.io"
           git config --local user.name "GitHub Action"
           # Check for any changes; if there are, commit them
