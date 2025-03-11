@@ -1,0 +1,29 @@
+name: changelog-workflow
+
+on:
+  schedule:
+    - cron: "0 5 * * *"
+
+jobs:
+  changelog:
+    name: Update changelog
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - name: Generate changlog
+        run: bun scripts/changelog.ts > CHANGELOG.md
+
+      - name: Commit changes if any
+        run: |
+          git config --local user.email "info@roaring.io"
+          git config --local user.name "GitHub Action"
+          # Check for any changes; if there are, commit them
+          if ! git diff --quiet; then
+            git commit -am "Update changelog"
+          else
+            echo "No changes detected. Exiting."
+          fi
+      - name: Push changes
+        run: git push
