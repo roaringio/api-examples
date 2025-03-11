@@ -1,4 +1,4 @@
-# Change Log
+# Changelog
 
 ## New release: Company documents in Web application
 
