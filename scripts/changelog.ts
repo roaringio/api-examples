@@ -34,7 +34,7 @@ function toMarkdown(data: any) {
     let entry = `## ${item.title}\n\n### ${item.date}\n\n${item.description}\n\n`;
     if (item.link) {
       const link = item.link.split("/").pop();
-      entry += `[API Docs](https://app.roaring.io/v2/developer/apis/${link})\n\n`;
+      entry += `[API Docs](https://app.roaring.io/v2/developer/apis/${link}){:target="_blank"}\n\n`;
     }
     return entry;
   });
