@@ -38,7 +38,7 @@ function toMarkdown(data: any) {
     }
     return entry;
   });
-  const changelog = `# Change Log\n\n${markdown.join("\n")}`;
+  const changelog = `# Changelog\n\n${markdown.join("\n")}`;
 
   return changelog;
 }
