@@ -39,7 +39,7 @@ function toMarkdown(data: any) {
   });
 
   const markdown = items.map((item) => {
-    let entry = `## ${createTitle(item)}\n\n### ${item.date}\n\n${item.description}\n\n`;
+    let entry = `## ${createTitle(item)}\n\n### ${item.date || ""}\n\n${item.description || ""}\n\n`;
     return entry;
   });
   const changelog = `# Changelog\n\n${markdown.join("\n")}`;
