@@ -1,8 +1,15 @@
-# API examples
+# Roaring API
+This repository provides a collection of examples for generating OpenAPI client libraries for 
+[roaring.io](https://roaring.io) APIs.
 
-This repo contains examples on how to generate API clients from Swagger
-and OpenAPI specifications. The examples are written Java and assume
-you use at least Java 17.
+This repository contains sample projects and scripts that demonstrate how to generate and use 
+client libraries from our OpenAPI specifications.
+
+For more information on our APIs, please visit [roaring.io](https://roaring.io)
+or the [Roaring Developer Portal](https://app.roaring.io/v2/developer/).
+
+> **Note:** The Java examples assume you use at least Java 17.
+
 
 ## About this example
 Client codegeneration is done using the OpenAPI codegenerator. The
