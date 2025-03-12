@@ -28,6 +28,14 @@ function createTitle(item: any) {
   }
 }
 
+
+function fixDate(date: string) {
+  if (!date)  return "";
+  if (date.length < "yyyy-mm-dd".length) return date;
+
+  return date.substring(0, "yyyy-mm-dd".length);
+}
+
 function toMarkdown(data: any) {
   const items: Item[] = data.map((item: any) => {
     return {
@@ -39,7 +47,7 @@ function toMarkdown(data: any) {
   });
 
   const markdown = items.map((item) => {
-    let entry = `## ${createTitle(item)}\n\n### ${item.date || ""}\n\n${item.description || ""}\n\n`;
+    let entry = `## ${createTitle(item)}\n\n### ${fixDate(item.date) || ""}\n\n${item.description || ""}\n\n`;
     return entry;
   });
   const changelog = `# Changelog\n\n${markdown.join("\n")}`;
