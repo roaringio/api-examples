@@ -8,8 +8,9 @@ client libraries from our OpenAPI specifications.
 For more information on our APIs, please visit [roaring.io](https://roaring.io)
 or the [Roaring Developer Portal](https://app.roaring.io/v2/developer/).
 
-> **Note:** The Java examples assume you use at least Java 17.
+For the latest changes and updates, please view the [CHANGELOG](CHANGELOG.md).
 
+> **Note:** The Java examples assume you use at least Java 17.
 
 ## About this example
 Client codegeneration is done using the OpenAPI codegenerator. The
