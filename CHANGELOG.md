@@ -758,7 +758,7 @@ It is now possible to retrieve historical company information
 
 ### 2021-08-31T00:00:00+02:00
 
-undefined
+
 
 
 ## [Company Search No, new query parameter](https://app.roaring.io/v2/developer/apis//developer/api/no-company-search-2.0)
@@ -787,7 +787,7 @@ New API with financial information for Norwegian companies
 
 ### 2021-06-21T00:00:00+02:00
 
-undefined
+
 
 
 ## [Removed unused parameter from swagger of Signatory text NO 1.0](https://app.roaring.io/v2/developer/apis//developer/api/no-company-signatory-1.0)
@@ -940,7 +940,7 @@ Empty engagements as a result of applying roleCode filters will not be included 
 
 ### 2020-11-25T00:00:00+01:00
 
-undefined
+
 
 
 ## [Sanctions Lists 2.0](https://app.roaring.io/v2/developer/apis//developer/api/global-sanctions-lists-2.0)
@@ -959,21 +959,21 @@ undefined
 
 ### 2020-10-28T00:00:00+01:00
 
-undefined
+
 
 
 ## [Release of Danish Signing Combinations](https://app.roaring.io/v2/developer/apis//developer/api/dk-company-signing-combinations-1.0)
 
 ### 2020-09-22T00:00:00+02:00
 
-undefined
+
 
 
 ## [Release of Danish Beneficial Owner.](https://app.roaring.io/v2/developer/apis//developer/api/dk-company-beneficial-owners-1.0)
 
 ### 2020-09-15T00:00:00+02:00
 
-undefined
+
 
 
 ## [Release of Right to Sign 2.0.](https://app.roaring.io/v2/developer/apis//developer/api/se-company-right-to-sign-2.0)
@@ -987,14 +987,14 @@ Response structure improved
 
 ### 2020-09-08T00:00:00+02:00
 
-undefined
+
 
 
 ## [Release of Danish Board Members API.](https://app.roaring.io/v2/developer/apis//developer/api/dk-company-board-members-1.0)
 
 ### 2020-07-07T00:00:00+02:00
 
-undefined
+
 
 
 ## [Release of Credit Decision Person.](https://app.roaring.io/v2/developer/apis//developer/api/se-person-credit-decision-1.0)
@@ -1015,14 +1015,14 @@ This is an extended version of the Financial Information API which now contains 
 
 ### 2020-03-31T00:00:00+02:00
 
-undefined
+
 
 
 ## [Release of Company Search API for Denmark.](https://app.roaring.io/v2/developer/apis//developer/api/dk-company-search-1.0)
 
 ### 2020-03-12T00:00:00+01:00
 
-undefined
+
 
 
 ## [Release of Owner structure API for Sweden. ](https://app.roaring.io/v2/developer/apis//developer/api/se-company-owner-structure-1.0)
@@ -1036,14 +1036,14 @@ An API which lets you see who owns a company and the Owner structure.
 
 ### 2020-02-27T00:00:00+01:00
 
-undefined
+
 
 
 ## [Release of Alternative Beneficial Owner for Sweden.](https://app.roaring.io/v2/developer/apis//developer/api/se-company-alt-beneficial-owners-1.0)
 
 ### 2020-02-10T00:00:00+01:00
 
-undefined
+
 
 
 ## [Company Information SE 2.0](https://app.roaring.io/v2/developer/apis//developer/api/se-company-overview-2.0)
