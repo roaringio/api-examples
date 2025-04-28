@@ -1,5 +1,15 @@
 # Changelog
 
+## [Open API V.3](https://app.roaring.io/v2/developer/apis//developer/api/)
+
+### 2025-04-28
+
+We are currently in the process of migrating all our API specifications from OpenAPI v2 (Swagger) to OpenAPI v3.
+This migration will take place throughout this week, and starting next week, all our APIs will be available with the updated OpenAPI v3 specifications.
+
+Please let us know if you have any questions or need support during this transition.
+
+
 ## [New API, Risk Indicators for the Norwegian market](https://app.roaring.io/v2/developer/apis//developer/api/no-company-risk-1.0)
 
 ### 2025-01-22
