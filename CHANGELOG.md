@@ -1,5 +1,19 @@
 # Changelog
 
+## [New API Property Information](https://app.roaring.io/v2/developer/apis//developer/api/se-property-information-1.0)
+
+### 2025-05-05
+
+This release introduces a new API which is also available in our Web app. This new service allows users to retrieve a list of properties owned by a specific individual or organization.
+
+Key Features:
+- Lookup by Identifier: Input either an organizational number (for companies) or a personal number (for individuals) to initiate the search.
+- Comprehensive Property List: The service returns a detailed list of properties associated with the provided identifier.
+
+This new functionality provides a convenient way to access and integrate property ownership information.
+
+
+
 ## [Open API V.3](https://app.roaring.io/v2/developer/apis//developer/api/)
 
 ### 2025-04-28
